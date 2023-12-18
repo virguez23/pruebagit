@@ -1,0 +1,51 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+.container {
+    max-width: 1920px;
+}
+header {
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    
+}
+.title {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 20%;
+}
+.btn {
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logo {
+    width: 50px;
+    position: center;
+}
+.a {
+    padding: left;
+}
+.carousel-caption h5{
+    color: blue;
+}
+.carousel-caption p{
+    color: white;
+}
+.i {
+    width: 500px;
+    position: center;
+}
+.invitacion {
+    color: blue;
+}
+.iconos {
+    width: 100px;
+    border-radius: 50px;
+}
+.inscribete {
+    width: max-content;
+}
